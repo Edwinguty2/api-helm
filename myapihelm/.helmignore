@@ -1,0 +1,16 @@
+# Ignorar archivos de sistema (macOS, etc.)
+.DS_Store
+
+# Ignorar directorios y archivos de Git
+.git
+.gitignore
+
+# Ignorar paquetes previamente generados
+*.tgz
+
+# Ignorar directorios de dependencias o módulos (si aplica)
+node_modules
+
+# Ignorar archivos temporales o de log
+*.log
+tmp/
